@@ -12,7 +12,7 @@ export default function Slider(props) {
     var items = [
         {
             name: "The Fastest, Most Powerful Xbox Ever.",
-            description: "Elevate your games with the all-new Xbox Wireless Controller - Lunar Shift Special Edition",
+            description: "Elevate your game with the all-new Xbox Wireless Controller - Lunar Shift Special Edition",
             page: 1
         },
         {
